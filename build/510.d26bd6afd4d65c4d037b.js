@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulbitv_project=self.webpackChunkulbitv_project||[]).push([[510],{510:(e,t,u)=>{u.r(t),u.d(t,{default:()=>i});var c=u(893);const i=function(){return(0,c.jsx)("div",{children:"MainPage"},void 0)}}}]);
